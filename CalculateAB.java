@@ -2,10 +2,6 @@
   // Calculate a^b without using Math.pow()
 
 
-
-
-
-
   public class CalculateAB{
       public static void main(String[] args) {
         int a = 2;

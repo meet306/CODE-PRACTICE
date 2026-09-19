@@ -1,8 +1,11 @@
+import java.util.*;
+// Find the sum of two numbers
+
 public class sum {
     public static void main(String[] args) {
-        int a = 5;
-        int b = 10;
-        int sum = a + b;
-        System.out.println("The sum of " + a + " and " + b + " is: " + sum);
+      int a = 12;
+      int b  = 34;
+      int c = a+b;
+      System.out.println(c);
     }
 }
